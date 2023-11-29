@@ -15,7 +15,7 @@
   
 **Note:** Communication between threads handled via a shared bounded buffer. Global buffer declaration or passing buffer pointers during thread creation are suggested solutions.
 
-**Submission Command Example:**
+**Submission Command:**
 ```bash
 ex3.out config.txt
 ```
