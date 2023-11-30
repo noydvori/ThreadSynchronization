@@ -1,4 +1,4 @@
-#Threads Synchronization for News Broadcasting Simulation
+# Threads Synchronization for News Broadcasting Simulation
 
 **Objective:** Implemented a concurrent programming project to simulate a news broadcasting system. Explored synchronization mechanisms to manage multiple threads efficiently.
 
